@@ -1,9 +1,9 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
-root: intro
+root: index
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: 1_before_observing
+- file: 2_opening_and_closing
+- file: 3_visual_observation
+- file: 4_imaging_and_astrophotography
+- file: 5_Problems_and_troubleshooting
+- file: a1_observation_logs
