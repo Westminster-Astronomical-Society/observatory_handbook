@@ -1,4 +1,4 @@
-# Visual observations
+# Visual Observations
 
 ## Pier and mount operation
 

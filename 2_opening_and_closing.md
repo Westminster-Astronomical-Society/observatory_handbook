@@ -1,4 +1,4 @@
-# Opening and closing procedures
+# Opening and Closing Procedures
 
 ## Opening and inspection of the facilities
 

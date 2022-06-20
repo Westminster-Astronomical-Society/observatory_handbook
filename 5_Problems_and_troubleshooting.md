@@ -1,4 +1,4 @@
-# Problems and troubleshooting
+# Problems and Troubleshooting
 
 ## Collimation
 

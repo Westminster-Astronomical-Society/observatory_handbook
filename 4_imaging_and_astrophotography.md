@@ -1,1 +1,1 @@
-# Imaging and astrophotography
+# Imaging and Astrophotography

@@ -1,4 +1,4 @@
-# Observation logs
+# Observation Logs
 
 ## Example observation log
 
