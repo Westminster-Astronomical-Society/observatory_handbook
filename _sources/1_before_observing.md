@@ -1,1 +1,11 @@
-# Planning an observing session
+# Before Observing
+
+## Scheduling
+
+## Observation planning
+
+## Equipment and instrumentation
+
+## Safety
+
+## References
