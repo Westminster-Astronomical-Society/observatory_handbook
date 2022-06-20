@@ -1,3 +1,5 @@
 # Observation logs
 
-![alt text](figures/observatory_log.png "Title")
+## Example observation log
+
+![observatory_log](figures/observatory_log.png "BFRMO user log")

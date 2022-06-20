@@ -1,4 +1,4 @@
-# Welcome to the Blaine F. Roelke Observatory
+# Blaine F. Roelke Observatory
 
 The Blaine F. Roelke Memorial Observatory (BFRMO) is home to our primary
 instrument, a Celestron 14-inch Schmidt-Cassegrain telescope previously owned
