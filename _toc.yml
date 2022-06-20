@@ -5,7 +5,7 @@ parts:
     numbered: False
     chapters:
     - file: 0_introduction
-  - caption: Observatory operations
+  - caption: Observatory Operations
     numbered: True
     chapters:
     - file: 1_before_observing
