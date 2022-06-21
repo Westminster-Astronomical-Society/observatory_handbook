@@ -1,4 +1,4 @@
-# Bright Stars by RA
+# Celestron Alignment Stars
 
 There are about 250 named stars in the hand control database, only 82 stars
 brighter than magnitude 2.5 can be used for alignment.
@@ -8,7 +8,7 @@ Stars marked with an asterix are below -40 degrees declination and are not
 suitable for alignment at BFRMO.
 ```
 
-Alignment stars by RA
+Bright stars by RA
 
   | |Name           | ID     | RA            | Dec           | Mag (V)|
   |-|---------------|--------|---------------|---------------|------|
@@ -94,4 +94,3 @@ Alignment stars by RA
   |*|Alnair         |alf Gru | 22 08 13.9847 | -46 57 39.507 | 1.71 |
   | |Scheat         |bet Peg | 23 03 46.4574 | +28 04 58.033 | 2.42 |
   | |Markab         |alf Peg | 23 04 45.6534 | +15 12 18.961 | 2.48 |
-  
