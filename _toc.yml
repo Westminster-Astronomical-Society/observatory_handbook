@@ -11,8 +11,9 @@ parts:
     - file: 1_before_observing
     - file: 2_opening_and_closing
     - file: 3_visual_observation
-    - file: 4_imaging_and_astrophotography
-    - file: 5_Problems_and_troubleshooting
+    - file: 4_solar_observation
+    - file: 5_imaging_and_astrophotography
+    - file: 6_Problems_and_troubleshooting
   - caption: Appendices
     numbered: True
     chapters:
