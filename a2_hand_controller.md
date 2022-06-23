@@ -1,6 +1,79 @@
 # NexStar Controller Reference
 
-![hand_controller](figures/NexStar.png "NexStar Controller")
+::::{grid}
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} figures/NexStar.png
+---
+name: nexstar-controller
+---
+NexStar controller
+```
+
+:::
+:::{grid-item}
+
+1. **LCD**: Dual-line, 16 character display.
+
+2. **Align**: Use a selected star or object as an alignment position.
+
+3. **Direction keys**: Slew the telescope in RA and Dec for alignment or centering objects.
+
+4. **Catalog keys**: Direct access to each of the database catalogs. See catalog lists below.
+
+5. **Info**: Coordinates and selected object information.
+
+6. **Tour**: Tour of the best objects for the current date and time.
+
+7. **Enter**: Select any of the telescope's functions and accept entered parameters.
+
+8. **Undo**: Display the previous level in the menu or erase data entered by mistake.
+
+9. **Menu**: Display setup and utilities functions.
+
+10. **Scroll keys**: Scroll up and down within any of the menu lists.
+
+11. **Rate**: With #1-9 Changes the manual slew rate for the direction buttons.
+
+12. **RS-232 jack**: Computer interface and remote control of the telescope.
+:::
+::::
+
+## Catalog menus
+
+The hand control contains the following catalogs in its database:
+
+- **Messier:** (#1) Complete list of Messier objects.
+
+- **Caldwell:** (#2) A collection of the best NGC and IC objects not in the Messier list.
+
+- **NGC:** (#4) Complete list of deep-sky objects in the Revised New General Catalog.
+
+- **Planets:** (#5) All 8 planets in our Solar System plus the Moon.
+
+- **Stars:** (#7) A list of the brightest stars from the SAO catalog.
+
+- **List:** (#8) The most popular objects in the database broken down by type and common name
+
+  - **Named Stars:** Common name listing of the brightest stars in the sky.
+
+  - **Named Objects:** Alphabetical listing of over 50 of the most popular deep sky objects.
+
+  - **Double Stars:** List of the most visually stunning double, triple and quadruple stars.
+
+  - **Variable Stars:** List of the brightest short period variable stars.
+
+  - **Asterisms:** Some of the most recognizable star patterns in the sky.
+
+  - **CCD Objects:** List of many interesting galaxy pairs and clusters well suited imaging.
+
+  - **IC Objects:** Complete list of Index Catalog deep-sky objects.
+  
+  - **Abell Objects:** List of the Abell Catalog galaxies.
+
+  - **Constellation:** List of all 88 constellations.
 
 ## Controller menus
 
