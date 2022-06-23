@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>2. NexStar Controller Reference &#8212; Observatory Handbook</title>
+    <title>4. Solar Observations &#8212; Observatory Handbook</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -54,8 +54,8 @@ const thebe_selector_output = ".output, .cell_output"
     <script>mermaid.initialize({startOnLoad:true});</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="3. Telescope Balance &amp; Alignment" href="a3_telescope_alignment.html" />
-    <link rel="prev" title="1. Observation Logs" href="a1_observation_logs.html" />
+    <link rel="next" title="5. Imaging and Astrophotography" href="5_imaging_and_astrophotography.html" />
+    <link rel="prev" title="3. Visual Observations" href="3_visual_observation.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -132,7 +132,7 @@ const thebe_selector_output = ".output, .cell_output"
   Observatory Operations
  </span>
 </p>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="1_before_observing.html">
    1. Before Observing
@@ -148,14 +148,19 @@ const thebe_selector_output = ".output, .cell_output"
    3. Visual Observations
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="4_imaging_and_astrophotography.html">
-   4. Imaging and Astrophotography
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   4. Solar Observations
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="5_Problems_and_troubleshooting.html">
-   5. Problems and Troubleshooting
+  <a class="reference internal" href="5_imaging_and_astrophotography.html">
+   5. Imaging and Astrophotography
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="6_Problems_and_troubleshooting.html">
+   6. Problems and Troubleshooting
   </a>
  </li>
 </ul>
@@ -164,14 +169,14 @@ const thebe_selector_output = ".output, .cell_output"
   Appendices
  </span>
 </p>
-<ul class="current nav bd-sidenav">
+<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="a1_observation_logs.html">
    1. Observation Logs
   </a>
  </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
+ <li class="toctree-l1">
+  <a class="reference internal" href="a2_hand_controller.html">
    2. NexStar Controller Reference
   </a>
  </li>
@@ -287,7 +292,7 @@ title="Source repository"
       </li>
       
       <li>
-        <a href="https://github.com/Westminster-Astronomical-Society/observatory_handbook/issues/new?title=Issue%20on%20page%20%2Fa2_hand_controller.html&body=Your%20issue%20content%20here."
+        <a href="https://github.com/Westminster-Astronomical-Society/observatory_handbook/issues/new?title=Issue%20on%20page%20%2F4_solar_observation.html&body=Your%20issue%20content%20here."
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -304,7 +309,7 @@ title="Open an issue"
       </li>
       
       <li>
-        <a href="https://github.com/Westminster-Astronomical-Society/observatory_handbook/edit/master/a2_hand_controller.md"
+        <a href="https://github.com/Westminster-Astronomical-Society/observatory_handbook/edit/master/4_solar_observation.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -332,7 +337,7 @@ title="Edit this page"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="_sources/a2_hand_controller.md"
+        <a href="_sources/4_solar_observation.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -392,74 +397,14 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#catalog-menus">
-   2.1. Catalog menus
+  <a class="reference internal nav-link" href="#instructions-for-solar-observing-at-the-roelke-observatory">
+   4.1. Instructions for Solar Observing at the Roelke Observatory
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#controller-menus">
-   2.2. Controller menus
+  <a class="reference internal nav-link" href="#shutting-down">
+   4.2. Shutting Down
   </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#menu">
-     2.2.1.
-     <code class="docutils literal notranslate">
-      <span class="pre">
-       MENU
-      </span>
-     </code>
-    </a>
-    <ul class="nav section-nav flex-column">
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#tracking">
-       2.2.1.1.
-       <code class="docutils literal notranslate">
-        <span class="pre">
-         TRACKING
-        </span>
-       </code>
-      </a>
-     </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#scope-setup">
-       2.2.1.2.
-       <code class="docutils literal notranslate">
-        <span class="pre">
-         SCOPE
-        </span>
-        <span class="pre">
-         SETUP
-        </span>
-       </code>
-      </a>
-     </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#utilities">
-       2.2.1.3.
-       <code class="docutils literal notranslate">
-        <span class="pre">
-         UTILITIES
-        </span>
-       </code>
-      </a>
-     </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#user-objects">
-       2.2.1.4.
-       <code class="docutils literal notranslate">
-        <span class="pre">
-         USER
-        </span>
-        <span class="pre">
-         OBJECTS
-        </span>
-       </code>
-      </a>
-     </li>
-    </ul>
-   </li>
-  </ul>
  </li>
 </ul>
 
@@ -470,7 +415,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>NexStar Controller Reference</h1>
+                <h1>Solar Observations</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -481,74 +426,14 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#catalog-menus">
-   2.1. Catalog menus
+  <a class="reference internal nav-link" href="#instructions-for-solar-observing-at-the-roelke-observatory">
+   4.1. Instructions for Solar Observing at the Roelke Observatory
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#controller-menus">
-   2.2. Controller menus
+  <a class="reference internal nav-link" href="#shutting-down">
+   4.2. Shutting Down
   </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#menu">
-     2.2.1.
-     <code class="docutils literal notranslate">
-      <span class="pre">
-       MENU
-      </span>
-     </code>
-    </a>
-    <ul class="nav section-nav flex-column">
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#tracking">
-       2.2.1.1.
-       <code class="docutils literal notranslate">
-        <span class="pre">
-         TRACKING
-        </span>
-       </code>
-      </a>
-     </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#scope-setup">
-       2.2.1.2.
-       <code class="docutils literal notranslate">
-        <span class="pre">
-         SCOPE
-        </span>
-        <span class="pre">
-         SETUP
-        </span>
-       </code>
-      </a>
-     </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#utilities">
-       2.2.1.3.
-       <code class="docutils literal notranslate">
-        <span class="pre">
-         UTILITIES
-        </span>
-       </code>
-      </a>
-     </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#user-objects">
-       2.2.1.4.
-       <code class="docutils literal notranslate">
-        <span class="pre">
-         USER
-        </span>
-        <span class="pre">
-         OBJECTS
-        </span>
-       </code>
-      </a>
-     </li>
-    </ul>
-   </li>
-  </ul>
  </li>
 </ul>
 
@@ -560,135 +445,73 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="nexstar-controller-reference">
-<h1><span class="section-number">2. </span>NexStar Controller Reference<a class="headerlink" href="#nexstar-controller-reference" title="Permalink to this headline">#</a></h1>
-<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
-<div class="sd-row sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
-<div class="sd-col sd-d-flex-column docutils">
-<figure class="align-default" id="nexstar-controller">
-<img alt="_images/NexStar.png" src="_images/NexStar.png" />
-<figcaption>
-<p><span class="caption-number">Fig. 2.1 </span><span class="caption-text">NexStar controller</span><a class="headerlink" href="#nexstar-controller" title="Permalink to this image">#</a></p>
-</figcaption>
-</figure>
+  <section class="tex2jax_ignore mathjax_ignore" id="solar-observations">
+<h1><span class="section-number">4. </span>Solar Observations<a class="headerlink" href="#solar-observations" title="Permalink to this headline">#</a></h1>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Failure to follow proper procedures while observing the Sun could result in
+damage to equipment and instantaneous permanent eye injury to you or your
+guests. If you are not confident about any steps of this, please seek advice
+prior to attempting solar observing.</p>
 </div>
-<div class="sd-col sd-d-flex-column docutils">
+<section id="instructions-for-solar-observing-at-the-roelke-observatory">
+<h2><span class="section-number">4.1. </span>Instructions for Solar Observing at the Roelke Observatory<a class="headerlink" href="#instructions-for-solar-observing-at-the-roelke-observatory" title="Permalink to this headline">#</a></h2>
 <ol class="simple">
-<li><p><strong>LCD</strong>: Dual-line, 16 character display.</p></li>
-<li><p><strong>Align</strong>: Use a selected star or object as an alignment position.</p></li>
-<li><p><strong>Direction keys</strong>: Slew the telescope in RA and Dec for alignment or centering objects.</p></li>
-<li><p><strong>Catalog keys</strong>: Direct access to each of the database catalogs. See catalog lists below.</p></li>
-<li><p><strong>Info</strong>: Coordinates and selected object information.</p></li>
-<li><p><strong>Tour</strong>: Tour of the best objects for the current date and time.</p></li>
-<li><p><strong>Enter</strong>: Select any of the telescope’s functions and accept entered parameters.</p></li>
-<li><p><strong>Undo</strong>: Display the previous level in the menu or erase data entered by mistake.</p></li>
-<li><p><strong>Menu</strong>: Display setup and utilities functions.</p></li>
-<li><p><strong>Scroll keys</strong>: Scroll up and down within any of the menu lists.</p></li>
-<li><p><strong>Rate</strong>: With #1-9 Changes the manual slew rate for the direction buttons.</p></li>
-<li><p><strong>RS-232 jack</strong>: Computer interface and remote control of the telescope.</p></li>
+<li><p>Perform all regular steps for activating the telescope up through just prior
+to removing the dust cover.</p></li>
+<li><p>Make sure the telescope is in the shade (rotate dome to a position that
+shades the telescope if necessary).</p></li>
+<li><p>Make sure the telescope is in the home position.</p></li>
+<li><p>Remove the 14” solar filter from its box. It is a silvered piece of fragile
+glass in an aluminum mount.</p></li>
+<li><p>Take the filter to a sun-lit area, either inside or outside the dome.</p></li>
+<li><p>Hold up to sun, look for cracks or large scratches in the glass surface.
+These will stand out brightly in the sun. If you find any, discontinue solar
+observing and seek advice prior to using. Seeing a few very tiny pinholes is
+acceptable.</p></li>
+<li><p>Remove the dust cover from the main telescope. Install the solar filter in
+its place. Check that it is in no danger of falling off.</p></li>
+<li><p>In a similar manner, check and place solar filters on the finder and low
+power telescope, if provided. If not placing solar filters on these
+telescopes, do not remove their dust covers. Follow the regular procedure
+until you are to the point of slewing to your first target. Install a low
+power eyepiece (32 mm or 40 mm, for example). This will give you the widest
+field for finding the sun (which is harder to find than you might think!).</p></li>
+<li><p>Your should find the sun as a target under solar system objects or planets,
+it is typically the very last one on the list.</p></li>
+<li><p>Check once more that the solar filters are securely in place.</p></li>
+<li><p>Choose to slew to the sun. The telescope may flash a warning message, OK the
+warning to slew.</p></li>
+<li><p>Rotate the dome such that the telescope aperture is in the sun.</p></li>
+<li><p>The telescope will slew to near the sun’s location. Check for it in the
+finder (only if it has a solar filter in place!), and align it to center. If the
+image seems uncomfortably bright, discontinue using it for solar observing and
+seek advice.</p></li>
+<li><p>If not in the finder, try to minimize the size of the telescope’s shadow
+using small slews. Then recheck that the sun is in the finder.</p></li>
+<li><p>Check for the sun in the main telescope. Tweak the alignment using the hand
+controller until approximately centered. The telescope should only need
+minor tweaks every half-hour or so to keep the sun in the field of view. If
+the image seems uncomfortably bright, discontinue using it for solar
+observing and seek advice. If the finder shows the sun off center when the
+sun is centered in the main telescope, align the finder to the main
+telescope.</p></li>
+<li><p>Focus the telescope as required. Occasionally look into the telescope to
+verify the centration of the sun in the field, and that the image does not
+appear to be uncomfortably bright.</p></li>
 </ol>
-</div>
-</div>
-</div>
-<section id="catalog-menus">
-<h2><span class="section-number">2.1. </span>Catalog menus<a class="headerlink" href="#catalog-menus" title="Permalink to this headline">#</a></h2>
-<p>The hand control contains the following catalogs in its database:</p>
-<ul class="simple">
-<li><p><strong>Messier:</strong> (#1) Complete list of Messier objects.</p></li>
-<li><p><strong>Caldwell:</strong> (#2) A collection of the best NGC and IC objects not in the Messier list.</p></li>
-<li><p><strong>NGC:</strong> (#4) Complete list of deep-sky objects in the Revised New General Catalog.</p></li>
-<li><p><strong>Planets:</strong> (#5) All 8 planets in our Solar System plus the Moon.</p></li>
-<li><p><strong>Stars:</strong> (#7) A list of the brightest stars from the SAO catalog.</p></li>
-<li><p><strong>List:</strong> (#8) The most popular objects in the database broken down by type and common name</p>
-<ul>
-<li><p><strong>Named Stars:</strong> Common name listing of the brightest stars in the sky.</p></li>
-<li><p><strong>Named Objects:</strong> Alphabetical listing of over 50 of the most popular deep sky objects.</p></li>
-<li><p><strong>Double Stars:</strong> List of the most visually stunning double, triple and quadruple stars.</p></li>
-<li><p><strong>Variable Stars:</strong> List of the brightest short period variable stars.</p></li>
-<li><p><strong>Asterisms:</strong> Some of the most recognizable star patterns in the sky.</p></li>
-<li><p><strong>CCD Objects:</strong> List of many interesting galaxy pairs and clusters well suited imaging.</p></li>
-<li><p><strong>IC Objects:</strong> Complete list of Index Catalog deep-sky objects.</p></li>
-<li><p><strong>Abell Objects:</strong> List of the Abell Catalog galaxies.</p></li>
-<li><p><strong>Constellation:</strong> List of all 88 constellations.</p></li>
-</ul>
-</li>
-</ul>
 </section>
-<section id="controller-menus">
-<h2><span class="section-number">2.2. </span>Controller menus<a class="headerlink" href="#controller-menus" title="Permalink to this headline">#</a></h2>
-<section id="menu">
-<h3><span class="section-number">2.2.1. </span><code class="docutils literal notranslate"><span class="pre">MENU</span></code><a class="headerlink" href="#menu" title="Permalink to this headline">#</a></h3>
-<div class="mermaid">
-            graph LR
-    A(MENU) --&gt; B(TRACKING)
-
-    A(MENU) --&gt; C(VIEW TIME-SITE)
-    A(MENU) --&gt; D(SCOPE SETUP)
-    A(MENU) --&gt; E(UTILITIES)
-    A(MENU) --&gt; F(USER OBJECTS)
-    A(MENU) --&gt; G(GET RA &amp; DEC)
-    A(MENU) --&gt; H(GOTO RA &amp; DEC)
-    A(MENU) --&gt; I(IDENTIFY)
-    A(MENU) --&gt; J(PRECISE GOTO)
-        </div><section id="tracking">
-<h4><span class="section-number">2.2.1.1. </span><code class="docutils literal notranslate"><span class="pre">TRACKING</span></code><a class="headerlink" href="#tracking" title="Permalink to this headline">#</a></h4>
-<div class="mermaid">
-            graph LR
-    B(TRACKING) --&gt; B1(MODE)
-        B1 --&gt; B11(EQ NORTH)
-        B1 --&gt; B12(EQ SOUTH)
-    B(TRACKING) --&gt; B2(RATE)
-        B2 --&gt; B21(SIDEREAL)
-        B2 --&gt; B22(SOLAR)
-        B2 --&gt; B23(LUNAR)
-        </div></section>
-<section id="scope-setup">
-<h4><span class="section-number">2.2.1.2. </span><code class="docutils literal notranslate"><span class="pre">SCOPE</span> <span class="pre">SETUP</span></code><a class="headerlink" href="#scope-setup" title="Permalink to this headline">#</a></h4>
-<div class="mermaid">
-            graph LR
-    D(SCOPE SETUP) --&gt; D1(SETUP TIME-SITE)
-    D(SCOPE SETUP) --&gt; D2(ANTI-BACKLASH)
-    D(SCOPE SETUP) --&gt; D3(FILTER LIMITS)
-    D(SCOPE SETUP) --&gt; D4(DIRECTION BUTTONS)
-    D(SCOPE SETUP) --&gt; D5(GOTO APPROACH)
-    D(SCOPE SETUP) --&gt; D6(AUTOGUIDE RATES)
-    D(SCOPE SETUP) --&gt; D7(OTA ORIENTATION)
-    D(SCOPE SETUP) --&gt; D8(MERIDIAN)
-    D(SCOPE SETUP) --&gt; D9(MOUNT SETTINGS)
-    D(SCOPE SETUP) --&gt; D10(R.A. LIMITS)
-        </div></section>
-<section id="utilities">
-<h4><span class="section-number">2.2.1.3. </span><code class="docutils literal notranslate"><span class="pre">UTILITIES</span></code><a class="headerlink" href="#utilities" title="Permalink to this headline">#</a></h4>
-<div class="mermaid">
-            graph LR
-    E(UTILITIES) --&gt; E1(CALIBRATE MOUNT)
-    E(UTILITIES) --&gt; E2(HOME POSITION)
-    E(UTILITIES) --&gt; E3(LIGHTS CONTROL)
-    E(UTILITIES) --&gt; E4(FACTORY SETTINGS)
-    E(UTILITIES) --&gt; E5(VERSION)
-    E(UTILITIES) --&gt; E6(GET AXIS POSITION)
-    E(UTILITIES) --&gt; E7(GOTO AXIS POSITION)
-    E(UTILITIES) --&gt; E8(HIBERNATE)
-    E(UTILITIES) --&gt; E9(SUN MENU)
-    E(UTILITIES) --&gt; E10(SCROLLING MENU)
-    E(UTILITIES) --&gt; E11(SET MOUNT POSITION)
-    E(UTILITIES) --&gt; E12(TURN ON/OFF GPS)
-    E(UTILITIES) --&gt; E13(TURN ON/OFF RTC)
-    E(UTILITIES) --&gt; E14(PEC)
-    E(UTILITIES) --&gt; E15(MOVE TO SWITCH)
-        </div></section>
-<section id="user-objects">
-<h4><span class="section-number">2.2.1.4. </span><code class="docutils literal notranslate"><span class="pre">USER</span> <span class="pre">OBJECTS</span></code><a class="headerlink" href="#user-objects" title="Permalink to this headline">#</a></h4>
-<div class="mermaid">
-            graph LR
-    F(USER OBJECTS) --&gt; F1(GOTO SKY OBJECT)
-    F(USER OBJECTS) --&gt; F2(SAVE SKY OBJECT)
-    F(USER OBJECTS) --&gt; F3(SAVE DB OBJECT)
-    F(USER OBJECTS) --&gt; F4(ENTER RA &amp; DEC)
-    F(USER OBJECTS) --&gt; F5(GOTO LAND OBJECT)
-    F(USER OBJECTS) --&gt; F6(SAVE LAND OBJECT)
-        </div></section>
-</section>
+<section id="shutting-down">
+<h2><span class="section-number">4.2. </span>Shutting Down<a class="headerlink" href="#shutting-down" title="Permalink to this headline">#</a></h2>
+<ol class="simple">
+<li><p>Follow the standard instructions until the telescope is in the home position.
+Do not remove the solar filter yet.</p></li>
+<li><p>After homing, rotate the dome such that the sun is no longer on the telescope.</p></li>
+<li><p>Remove the solar filter, install the dust cover.</p></li>
+<li><p>Carefully return the filter to its box.</p></li>
+<li><p>Repeat for other telescope’s sun filters.</p></li>
+<li><p>Complete the standard shutdown procedure.</p></li>
+</ol>
 </section>
 </section>
 
@@ -719,17 +542,17 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="a1_observation_logs.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="3_visual_observation.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title"><span class="section-number">1. </span>Observation Logs</p>
+            <p class="prev-next-title"><span class="section-number">3. </span>Visual Observations</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="a3_telescope_alignment.html" title="next page">
+    <a class='right-next' id="next-link" href="5_imaging_and_astrophotography.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title"><span class="section-number">3. </span>Telescope Balance &amp; Alignment</p>
+        <p class="prev-next-title"><span class="section-number">5. </span>Imaging and Astrophotography</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>
