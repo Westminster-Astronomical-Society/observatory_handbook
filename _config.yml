@@ -35,4 +35,5 @@ html:
 
 sphinx:
   extra_extensions:
+    - sphinx_jupyterbook_latex
     - sphinxcontrib.mermaid
