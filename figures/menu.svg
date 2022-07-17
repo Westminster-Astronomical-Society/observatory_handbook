@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.228878mm"
+   height="76.859154mm"
+   viewBox="0 0 46.228878 76.859154"
+   version="1.1"
+   id="svg1588"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="menu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1590"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75098906"
+     inkscape:cx="325.57066"
+     inkscape:cy="354.19957"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1585" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(33.785011,-54.998214)">
+    <g
+       id="g5058"
+       transform="matrix(0.35277777,0,0,-0.35277777,-301.73243,411.19979)">
+      <g
+         id="g4787-2-1-9"
+         transform="translate(583.78441,290.09466)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.763102;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           id="rect4703-5-0-6"
+           width="77.9869"
+           height="17.236898"
+           x="176.13315"
+           y="-719.22906"
+           transform="scale(1,-1)"
+           rx="4.5289764"
+           ry="4.6287966" />
+        <text
+           xml:space="preserve"
+           transform="scale(1,-1)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+           id="text352-5-8-4-2"
+           x="215.1476"
+           y="-708.54364"><tspan
+             x="215.1476"
+             y="-708.54364"
+             sodipodi:role="line"
+             id="tspan350-6-6-27-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">MENU</tspan></text>
+      </g>
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+         d="M 798.94277,991.69322 V 798.59094"
+         id="path5075-2-4-7"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g5584-8-0-8"
+         transform="translate(103.05014,303.73904)">
+        <g
+           id="g4787-9-4-3-5"
+           transform="translate(532.63792,-48.617451)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-7-2-7"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-2-8-4"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-40-0-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">TRACKING</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="m 708.13444,664.24322 h -12.1879"
+           id="path5077-6-3-8"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5542-4-1-9"
+         transform="translate(103.05014,409.16525)">
+        <g
+           id="g4787-9-3-9-1-3-3-7"
+           transform="translate(533.02677,-175.21809)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-5-1-5-7-7"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-0-5-1-4-64"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-4-9-7-1-30"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">VIEW TIME-SITE</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.57347,537.64257 H 696.37878"
+           id="path5079-9-7-4-1-3"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5542-4-1-2-09"
+         transform="translate(102.93299,260.94422)">
+        <g
+           id="g4787-9-3-9-1-3-3-0-2"
+           transform="translate(533.02677,-175.21809)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-5-1-5-7-0-5"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-0-5-1-4-6-4"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-4-9-7-1-3-05"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">PRECISE GOTO</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.57347,537.64257 H 696.37878"
+           id="path5079-9-7-4-1-9-9"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5542-4-1-2-0-4"
+         transform="translate(102.93299,282.11865)">
+        <g
+           id="g4787-9-3-9-1-3-3-0-8-6"
+           transform="translate(533.02677,-175.21809)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-5-1-5-7-0-3-9"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-0-5-1-4-6-8-2"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-4-9-7-1-3-7-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">IDENTIFY</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.57347,537.64257 H 696.37878"
+           id="path5079-9-7-4-1-9-3-4"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5542-4-1-2-1-7"
+         transform="translate(102.93299,303.29308)">
+        <g
+           id="g4787-9-3-9-1-3-3-0-0-7"
+           transform="translate(533.02677,-175.21809)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-5-1-5-7-0-0-5"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-0-5-1-4-6-5-4"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-4-9-7-1-3-0-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">GOTO RA &amp; DEC</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.57347,537.64257 H 696.37878"
+           id="path5079-9-7-4-1-9-31-1"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5542-4-1-2-8-2"
+         transform="translate(102.93299,324.46752)">
+        <g
+           id="g4787-9-3-9-1-3-3-0-01-8"
+           transform="translate(533.02677,-175.21809)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-5-1-5-7-0-7-9"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-0-5-1-4-6-9-3"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-4-9-7-1-3-1-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">GET RA &amp; DEC</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.57347,537.64257 H 696.37878"
+           id="path5079-9-7-4-1-9-0-8"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5535-0-8-62"
+         transform="translate(103.05014,409.87524)">
+        <g
+           id="g4787-9-3-9-4-9-6"
+           transform="translate(532.86938,-197.10252)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-5-2-8-7"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-0-9-8-5"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-4-6-0-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">SCOPE SETUP</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.41605,515.75814 H 696.22139"
+           id="path5079-9-1-3-98"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5535-0-8-6-6"
+         transform="translate(103.14424,388.70081)">
+        <g
+           id="g4787-9-3-9-4-9-0-2"
+           transform="translate(532.86938,-197.10252)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-5-2-8-6-4"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-0-9-8-4-7"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-4-6-0-0-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">UTILITIES</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.41605,515.75814 H 696.22139"
+           id="path5079-9-1-3-9-39"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5535-0-8-6-1-9"
+         transform="translate(103.08279,367.52638)">
+        <g
+           id="g4787-9-3-9-4-9-0-3-6"
+           transform="translate(532.86938,-197.10252)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-5-2-8-6-6-2"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-0-9-8-4-4-1"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-4-6-0-0-0-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">USER OBJECTS</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.41605,515.75814 H 696.22139"
+           id="path5079-9-1-3-9-3-0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+</svg>

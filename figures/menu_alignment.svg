@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.846489mm"
+   height="91.471825mm"
+   viewBox="0 0 67.846489 91.471825"
+   version="1.1"
+   id="svg1588"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="menu_alignment.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1590"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75098906"
+     inkscape:cx="211.05501"
+     inkscape:cy="378.16796"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1585" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.6243073,-48.684017)">
+    <g
+       id="g9765-1-4"
+       transform="matrix(0.35277777,0,0,-0.35277777,62.970841,231.99348)">
+      <g
+         id="g4787-2-5-3"
+         transform="translate(-364.52525,-199.99323)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.763102;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           id="rect4703-5-4-7"
+           width="77.9869"
+           height="17.236898"
+           x="176.13315"
+           y="-719.22906"
+           transform="scale(1,-1)"
+           rx="4.5289764"
+           ry="4.6287966" />
+        <text
+           xml:space="preserve"
+           transform="scale(1,-1)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+           id="text352-5-8-9-3"
+           x="215.1476"
+           y="-708.54364"><tspan
+             x="215.1476"
+             y="-708.54364"
+             sodipodi:role="line"
+             id="tspan350-6-6-2-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">ALIGNMENT</tspan></text>
+      </g>
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+         d="M -149.36689,501.60533 V 372.46145"
+         id="path5075-2-5-7"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g5577-2-3-2"
+         transform="translate(-845.25953,-270.68077)">
+        <g
+           id="g4787-9-3-99-5-1"
+           transform="translate(532.63792,-69.758555)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-0-7-9"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-8-0-7"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none"
+               id="tspan13002-6">ENTER DATE – MM/DD/YY</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.15286,643.10211 H 695.98993"
+           id="path5079-3-1-8"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g19301"
+         transform="translate(0,-3)">
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M -97.327006,368.571 V 273.09125"
+           id="path5081-1-9-2"
+           sodipodi:nodetypes="cc" />
+        <g
+           id="g5563-0-6-6"
+           transform="translate(-844.8742,-267.73183)">
+          <g
+             id="g4787-9-6-3-5-2-4"
+             transform="translate(593.91971,-112.04076)">
+            <rect
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+               id="rect4703-3-8-1-6-1-3"
+               width="78.090919"
+               height="12.840917"
+               x="176.08113"
+               y="-719.28113"
+               transform="scale(1,-1)"
+               rx="4.5350175"
+               ry="3.4482996" />
+            <text
+               xml:space="preserve"
+               transform="scale(1,-1)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+               id="text352-5-7-8-4-6-2-3"
+               x="215.21359"
+               y="-710.79364"><tspan
+                 x="215.21359"
+                 y="-710.79364"
+                 sodipodi:role="line"
+                 id="tspan350-6-4-4-9-4-0-6"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">SOLAR SYSTEM ALIGN</tspan></text>
+          </g>
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             d="M 769.56965,600.81991 H 747.77562"
+             id="path5087-0-7-9"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g5570-04-3-0"
+           transform="translate(-844.8742,-267.60923)">
+          <g
+             id="g4787-9-6-6-1-4"
+             transform="translate(593.91971,-90.899659)">
+            <rect
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+               id="rect4703-3-8-26-1-8"
+               width="78.090919"
+               height="12.840917"
+               x="176.08113"
+               y="-719.28113"
+               transform="scale(1,-1)"
+               rx="4.5350175"
+               ry="3.4482996" />
+            <text
+               xml:space="preserve"
+               transform="scale(1,-1)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+               id="text352-5-7-8-75-9-5"
+               x="215.21359"
+               y="-710.79364"><tspan
+                 x="215.21359"
+                 y="-710.79364"
+                 sodipodi:role="line"
+                 id="tspan350-6-4-4-6-0-1"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">TWO STAR ALIGN</tspan></text>
+          </g>
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             d="M 769.5626,621.96101 H 747.86559"
+             id="path5089-9-5-2"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g5577-4-6-8-6-7-4-4"
+           transform="translate(-783.59241,-373.02495)">
+          <g
+             id="g4787-9-3-4-9-5-0-4-6-3"
+             transform="translate(532.63792,-69.758555)">
+            <rect
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+               id="rect4703-3-0-4-2-0-4-1-3-6"
+               width="78.090919"
+               height="12.840917"
+               x="176.08113"
+               y="-719.28113"
+               transform="scale(1,-1)"
+               rx="4.5350175"
+               ry="3.4482996" />
+            <text
+               xml:space="preserve"
+               transform="scale(1,-1)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+               id="text352-5-7-7-4-2-6-1-7-6-4"
+               x="215.21359"
+               y="-710.79364"><tspan
+                 x="215.21359"
+                 y="-710.79364"
+                 sodipodi:role="line"
+                 id="tspan350-6-4-8-7-4-4-0-1-33-3"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">ONE STAR ALIGN</tspan></text>
+          </g>
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             d="M 708.20247,643.10211 H 686.44912"
+             id="path5079-6-7-6-4-1-4-1"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g5577-4-6-8-6-7-43-9"
+           transform="translate(-783.59241,-352.02495)">
+          <g
+             id="g4787-9-3-4-9-5-0-4-9-1"
+             transform="translate(532.63792,-69.758555)">
+            <rect
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+               id="rect4703-3-0-4-2-0-4-1-7-0"
+               width="78.090919"
+               height="12.840917"
+               x="176.08113"
+               y="-719.28113"
+               transform="scale(1,-1)"
+               rx="4.5350175"
+               ry="3.4482996" />
+            <text
+               xml:space="preserve"
+               transform="scale(1,-1)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+               id="text352-5-7-7-4-2-6-1-7-2-9"
+               x="215.21359"
+               y="-710.79364"><tspan
+                 x="215.21359"
+                 y="-710.79364"
+                 sodipodi:role="line"
+                 id="tspan350-6-4-8-7-4-4-0-1-5-4"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">QUICK ALIGN</tspan></text>
+          </g>
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             d="M 708.20247,643.10211 H 686.58145"
+             id="path5079-6-7-6-4-1-89-5"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g5577-4-6-8-6-7-0-6"
+           transform="translate(-783.59241,-331.02495)">
+          <g
+             id="g4787-9-3-4-9-5-0-4-24-2"
+             transform="translate(532.63792,-69.758555)">
+            <rect
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+               id="rect4703-3-0-4-2-0-4-1-76-5"
+               width="78.090919"
+               height="12.840917"
+               x="176.08113"
+               y="-719.28113"
+               transform="scale(1,-1)"
+               rx="4.5350175"
+               ry="3.4482996" />
+            <text
+               xml:space="preserve"
+               transform="scale(1,-1)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+               id="text352-5-7-7-4-2-6-1-7-5-9"
+               x="215.21359"
+               y="-710.79364"><tspan
+                 x="215.21359"
+                 y="-710.79364"
+                 sodipodi:role="line"
+                 id="tspan350-6-4-8-7-4-4-0-1-7-1"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">LAST ALIGNMENT</tspan></text>
+          </g>
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             d="M 708.20247,643.10211 H 686.62855"
+             id="path5079-6-7-6-4-1-1-7"
+             sodipodi:nodetypes="cc" />
+        </g>
+      </g>
+      <g
+         id="g5577-4-6-8-6-7-3-7"
+         transform="translate(-845.1355,-249.39305)">
+        <g
+           id="g4787-9-3-4-9-5-0-4-3-4"
+           transform="translate(532.63792,-69.758555)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-4-2-0-4-1-38-1"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-4-2-6-1-7-51-1"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-7-4-4-0-1-08-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">TIME ZONE</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.20247,643.10211 H 695.98993"
+           id="path5079-6-7-6-4-1-7-1"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5577-4-6-8-6-7-6-3"
+         transform="translate(-845.1355,-228.39305)">
+        <g
+           id="g4787-9-3-4-9-5-0-4-35-8"
+           transform="translate(532.63792,-69.758555)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-4-2-0-4-1-0-7"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-4-2-6-1-7-80-4"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-7-4-4-0-1-4-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">DLS/ST</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.20247,643.10211 H 695.98993"
+           id="path5079-6-7-6-4-1-11-3"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5577-4-6-8-6-7-35-1"
+         transform="translate(-845.1355,-207.39305)">
+        <g
+           id="g4787-9-3-4-9-5-0-4-93-3"
+           transform="translate(532.63792,-69.758555)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-4-2-0-4-1-4-8"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-4-2-6-1-7-1-7"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-7-4-4-0-1-50-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">ENTER TIME</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.20247,643.10211 H 695.98993"
+           id="path5079-6-7-6-4-1-83-3"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5577-4-6-8-6-7-56-8"
+         transform="translate(-845.1355,-186.39305)">
+        <g
+           id="g4787-9-3-4-9-5-0-4-5-8"
+           transform="translate(532.63792,-69.758555)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-4-2-0-4-1-99-4"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-4-2-6-1-7-0-0"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-7-4-4-0-1-76-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">SET TO INDEX</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.20247,643.10211 H 695.98993"
+           id="path5079-6-7-6-4-1-37-8"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g5577-4-6-8-6-7-61-6"
+         transform="translate(-845.1355,-165.39305)">
+        <g
+           id="g4787-9-3-4-9-5-0-4-50-8"
+           transform="translate(532.63792,-69.758555)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.659084;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+             id="rect4703-3-0-4-2-0-4-1-6-2"
+             width="78.090919"
+             height="12.840917"
+             x="176.08113"
+             y="-719.28113"
+             transform="scale(1,-1)"
+             rx="4.5350175"
+             ry="3.4482996" />
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-dasharray:none"
+             id="text352-5-7-7-4-2-6-1-7-50-3"
+             x="215.21359"
+             y="-710.79364"><tspan
+               x="215.21359"
+               y="-710.79364"
+               sodipodi:role="line"
+               id="tspan350-6-4-8-7-4-4-0-1-8-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75;stroke-dasharray:none">SELECT LOCATION</tspan></text>
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.982206"
+           d="M 708.20247,643.10211 H 695.98993"
+           id="path5079-6-7-6-4-1-12-5"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+</svg>
