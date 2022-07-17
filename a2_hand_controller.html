@@ -149,13 +149,18 @@ const thebe_selector_output = ".output, .cell_output"
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="4_imaging_and_astrophotography.html">
-   4. Imaging and Astrophotography
+  <a class="reference internal" href="4_solar_observation.html">
+   4. Solar Observations
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="5_Problems_and_troubleshooting.html">
-   5. Problems and Troubleshooting
+  <a class="reference internal" href="5_imaging_and_astrophotography.html">
+   5. Imaging and Astrophotography
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="6_Problems_and_troubleshooting.html">
+   6. Problems and Troubleshooting
   </a>
  </li>
 </ul>
@@ -392,18 +397,23 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#catalog-menus">
-   2.1. Catalog menus
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#controller-menus">
-   2.2. Controller menus
+   2.1. Controller menus
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#align">
+     2.1.1.
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       ALIGN
+      </span>
+     </code>
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#menu">
-     2.2.1.
+     2.1.2.
      <code class="docutils literal notranslate">
       <span class="pre">
        MENU
@@ -413,7 +423,7 @@ title="Print to PDF"
     <ul class="nav section-nav flex-column">
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#tracking">
-       2.2.1.1.
+       2.1.2.1.
        <code class="docutils literal notranslate">
         <span class="pre">
          TRACKING
@@ -423,7 +433,7 @@ title="Print to PDF"
      </li>
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#scope-setup">
-       2.2.1.2.
+       2.1.2.2.
        <code class="docutils literal notranslate">
         <span class="pre">
          SCOPE
@@ -436,7 +446,7 @@ title="Print to PDF"
      </li>
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#utilities">
-       2.2.1.3.
+       2.1.2.3.
        <code class="docutils literal notranslate">
         <span class="pre">
          UTILITIES
@@ -446,7 +456,7 @@ title="Print to PDF"
      </li>
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#user-objects">
-       2.2.1.4.
+       2.1.2.4.
        <code class="docutils literal notranslate">
         <span class="pre">
          USER
@@ -458,6 +468,11 @@ title="Print to PDF"
       </a>
      </li>
     </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#catalog-menus">
+     2.1.3. Catalog menus
+    </a>
    </li>
   </ul>
  </li>
@@ -481,18 +496,23 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#catalog-menus">
-   2.1. Catalog menus
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#controller-menus">
-   2.2. Controller menus
+   2.1. Controller menus
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#align">
+     2.1.1.
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       ALIGN
+      </span>
+     </code>
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#menu">
-     2.2.1.
+     2.1.2.
      <code class="docutils literal notranslate">
       <span class="pre">
        MENU
@@ -502,7 +522,7 @@ title="Print to PDF"
     <ul class="nav section-nav flex-column">
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#tracking">
-       2.2.1.1.
+       2.1.2.1.
        <code class="docutils literal notranslate">
         <span class="pre">
          TRACKING
@@ -512,7 +532,7 @@ title="Print to PDF"
      </li>
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#scope-setup">
-       2.2.1.2.
+       2.1.2.2.
        <code class="docutils literal notranslate">
         <span class="pre">
          SCOPE
@@ -525,7 +545,7 @@ title="Print to PDF"
      </li>
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#utilities">
-       2.2.1.3.
+       2.1.2.3.
        <code class="docutils literal notranslate">
         <span class="pre">
          UTILITIES
@@ -535,7 +555,7 @@ title="Print to PDF"
      </li>
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#user-objects">
-       2.2.1.4.
+       2.1.2.4.
        <code class="docutils literal notranslate">
         <span class="pre">
          USER
@@ -547,6 +567,11 @@ title="Print to PDF"
       </a>
      </li>
     </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#catalog-menus">
+     2.1.3. Catalog menus
+    </a>
    </li>
   </ul>
  </li>
@@ -590,104 +615,157 @@ title="Print to PDF"
 </div>
 </div>
 </div>
+<section id="controller-menus">
+<h2><span class="section-number">2.1. </span>Controller menus<a class="headerlink" href="#controller-menus" title="Permalink to this headline">#</a></h2>
+<section id="align">
+<h3><span class="section-number">2.1.1. </span><code class="docutils literal notranslate"><span class="pre">ALIGN</span></code><a class="headerlink" href="#align" title="Permalink to this headline">#</a></h3>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<figure class="align-default" id="nexstar-menu-align">
+<img alt="_images/menu_align.svg" src="_images/menu_align.svg" /><figcaption>
+<p><span class="caption-number">Fig. 2.2 </span><span class="caption-text">NexStar Align Menu</span><a class="headerlink" href="#nexstar-menu-align" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+<ul class="simple">
+<li><p><strong><code class="docutils literal notranslate"><span class="pre">ALIGNMENT</span> <span class="pre">STARS</span></code>:</strong> Update original alignment with new alignment stars.</p></li>
+<li><p><strong><code class="docutils literal notranslate"><span class="pre">CALIB.</span> <span class="pre">STARS</span></code>:</strong> Add or update additional calibration stars.</p></li>
+<li><p><strong><code class="docutils literal notranslate"><span class="pre">POLAR</span> <span class="pre">ALIGN</span></code>:</strong> Perform “All-Star” polar alignment and view polar alignment error.</p></li>
+<li><p><strong><code class="docutils literal notranslate"><span class="pre">SYNC</span></code>:</strong> Sync the mount’s coordinates to the given equatorial coordinates.</p></li>
+<li><p><strong><code class="docutils literal notranslate"><span class="pre">UNDO</span> <span class="pre">SYNC</span></code>:</strong> Undo the sync (required when realigning the mount).</p></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="menu">
+<h3><span class="section-number">2.1.2. </span><code class="docutils literal notranslate"><span class="pre">MENU</span></code><a class="headerlink" href="#menu" title="Permalink to this headline">#</a></h3>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<figure class="align-default" id="nexstar-menu">
+<img alt="_images/menu.svg" src="_images/menu.svg" /><figcaption>
+<p><span class="caption-number">Fig. 2.3 </span><span class="caption-text">NexStar Menu</span><a class="headerlink" href="#nexstar-menu" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+</div>
+</div>
+</div>
+<section id="tracking">
+<h4><span class="section-number">2.1.2.1. </span><code class="docutils literal notranslate"><span class="pre">TRACKING</span></code><a class="headerlink" href="#tracking" title="Permalink to this headline">#</a></h4>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<figure class="align-default" id="nexstar-menu-tracking">
+<img alt="_images/menu_tracking.svg" src="_images/menu_tracking.svg" /><figcaption>
+<p><span class="caption-number">Fig. 2.4 </span><span class="caption-text">NexStar Menu - Tracking</span><a class="headerlink" href="#nexstar-menu-tracking" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+<ul class="simple">
+<li><p><strong><code class="docutils literal notranslate"><span class="pre">MODE</span></code>:</strong> Set the proper tracking mode for your location. (Should be <code class="docutils literal notranslate"><span class="pre">EQ</span> <span class="pre">NORTH</span></code>)</p></li>
+<li><p><strong><code class="docutils literal notranslate"><span class="pre">RATE</span></code>:</strong> Set the tracking rate (<code class="docutils literal notranslate"><span class="pre">SIDEREAL</span></code>, <code class="docutils literal notranslate"><span class="pre">SOLAR</span></code>, or <code class="docutils literal notranslate"><span class="pre">LUNAR</span></code>).</p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If you select an object from the database the mount will trackmat the appropriate
+rate for the object type but if you slew to an object or enter coordinates manually
+the proper rate must be set.</p>
+</div>
+</section>
+<section id="scope-setup">
+<h4><span class="section-number">2.1.2.2. </span><code class="docutils literal notranslate"><span class="pre">SCOPE</span> <span class="pre">SETUP</span></code><a class="headerlink" href="#scope-setup" title="Permalink to this headline">#</a></h4>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<figure class="align-default" id="nexstar-menu-setup">
+<img alt="_images/menu_setup.svg" src="_images/menu_setup.svg" /><figcaption>
+<p><span class="caption-number">Fig. 2.5 </span><span class="caption-text">NexStar Menu - Scope Setup</span><a class="headerlink" href="#nexstar-menu-setup" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+</div>
+</div>
+</div>
+</section>
+<section id="utilities">
+<h4><span class="section-number">2.1.2.3. </span><code class="docutils literal notranslate"><span class="pre">UTILITIES</span></code><a class="headerlink" href="#utilities" title="Permalink to this headline">#</a></h4>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<figure class="align-default" id="nexstar-menu-utilities">
+<img alt="_images/menu_utilities.svg" src="_images/menu_utilities.svg" /><figcaption>
+<p><span class="caption-number">Fig. 2.6 </span><span class="caption-text">NexStar Menu - Utilities</span><a class="headerlink" href="#nexstar-menu-utilities" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+</div>
+</div>
+</div>
+</section>
+<section id="user-objects">
+<h4><span class="section-number">2.1.2.4. </span><code class="docutils literal notranslate"><span class="pre">USER</span> <span class="pre">OBJECTS</span></code><a class="headerlink" href="#user-objects" title="Permalink to this headline">#</a></h4>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<figure class="align-default" id="nexstar-menu-objects">
+<img alt="_images/menu_objects.svg" src="_images/menu_objects.svg" /><figcaption>
+<p><span class="caption-number">Fig. 2.7 </span><span class="caption-text">NexStar Menu - User Objects</span><a class="headerlink" href="#nexstar-menu-objects" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+</div>
+</div>
+</div>
+</section>
+</section>
 <section id="catalog-menus">
-<h2><span class="section-number">2.1. </span>Catalog menus<a class="headerlink" href="#catalog-menus" title="Permalink to this headline">#</a></h2>
+<h3><span class="section-number">2.1.3. </span>Catalog menus<a class="headerlink" href="#catalog-menus" title="Permalink to this headline">#</a></h3>
 <p>The hand control contains the following catalogs in its database:</p>
 <ul class="simple">
 <li><p><strong>Messier:</strong> (#1) Complete list of Messier objects.</p></li>
-<li><p><strong>Caldwell:</strong> (#2) A collection of the best NGC and IC objects not in the Messier list.</p></li>
-<li><p><strong>NGC:</strong> (#4) Complete list of deep-sky objects in the Revised New General Catalog.</p></li>
+<li><p><strong>Caldwell:</strong> (#2) The best NGC and IC objects not in the Messier list.</p></li>
+<li><p><strong>NGC:</strong> (#4) Complete list of objects in the Revised New General Catalog.</p></li>
 <li><p><strong>Planets:</strong> (#5) All 8 planets in our Solar System plus the Moon.</p></li>
 <li><p><strong>Stars:</strong> (#7) A list of the brightest stars from the SAO catalog.</p></li>
-<li><p><strong>List:</strong> (#8) The most popular objects in the database broken down by type and common name</p>
-<ul>
+<li><p><strong>Tour:</strong> (#0) A list of interesting objects based on date, time and set filter limits.</p></li>
+<li><p><strong>List:</strong> (#8) All of the objects in the database by type and common name.</p></li>
+</ul>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<figure class="align-default" id="nexstar-menu-list">
+<img alt="_images/menu_list.svg" src="_images/menu_list.svg" /><figcaption>
+<p><span class="caption-number">Fig. 2.8 </span><span class="caption-text">NexStar Menu - Object Lists</span><a class="headerlink" href="#nexstar-menu-list" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+<ul class="simple">
 <li><p><strong>Named Stars:</strong> Common name listing of the brightest stars in the sky.</p></li>
-<li><p><strong>Named Objects:</strong> Alphabetical listing of over 50 of the most popular deep sky objects.</p></li>
-<li><p><strong>Double Stars:</strong> List of the most visually stunning double, triple and quadruple stars.</p></li>
-<li><p><strong>Variable Stars:</strong> List of the brightest short period variable stars.</p></li>
-<li><p><strong>Asterisms:</strong> Some of the most recognizable star patterns in the sky.</p></li>
-<li><p><strong>CCD Objects:</strong> List of many interesting galaxy pairs and clusters well suited imaging.</p></li>
-<li><p><strong>IC Objects:</strong> Complete list of Index Catalog deep-sky objects.</p></li>
-<li><p><strong>Abell Objects:</strong> List of the Abell Catalog galaxies.</p></li>
-<li><p><strong>Constellation:</strong> List of all 88 constellations.</p></li>
+<li><p><strong>Named Objects:</strong> Over 50 of the most popular deep sky objects.</p></li>
+<li><p><strong>Double Stars:</strong> Best double, triple and quadruple stars.</p></li>
+<li><p><strong>Variable Stars:</strong> Brightest short period variable stars.</p></li>
+<li><p><strong>Asterisms:</strong> The most recognizable star patterns in the sky.</p></li>
+<li><p><strong>CCD Objects:</strong> Galaxy pairs and clusters well suited imaging.</p></li>
+<li><p><strong>IC Objects:</strong> Index Catalog deep-sky objects.</p></li>
+<li><p><strong>Abell Objects:</strong> Abell Catalog galaxies.</p></li>
+<li><p><strong>Constellation:</strong> IAU recognised constellations.</p></li>
 </ul>
-</li>
-</ul>
-</section>
-<section id="controller-menus">
-<h2><span class="section-number">2.2. </span>Controller menus<a class="headerlink" href="#controller-menus" title="Permalink to this headline">#</a></h2>
-<section id="menu">
-<h3><span class="section-number">2.2.1. </span><code class="docutils literal notranslate"><span class="pre">MENU</span></code><a class="headerlink" href="#menu" title="Permalink to this headline">#</a></h3>
-<div class="mermaid">
-            graph LR
-    A(MENU) --&gt; B(TRACKING)
-
-    A(MENU) --&gt; C(VIEW TIME-SITE)
-    A(MENU) --&gt; D(SCOPE SETUP)
-    A(MENU) --&gt; E(UTILITIES)
-    A(MENU) --&gt; F(USER OBJECTS)
-    A(MENU) --&gt; G(GET RA &amp; DEC)
-    A(MENU) --&gt; H(GOTO RA &amp; DEC)
-    A(MENU) --&gt; I(IDENTIFY)
-    A(MENU) --&gt; J(PRECISE GOTO)
-        </div><section id="tracking">
-<h4><span class="section-number">2.2.1.1. </span><code class="docutils literal notranslate"><span class="pre">TRACKING</span></code><a class="headerlink" href="#tracking" title="Permalink to this headline">#</a></h4>
-<div class="mermaid">
-            graph LR
-    B(TRACKING) --&gt; B1(MODE)
-        B1 --&gt; B11(EQ NORTH)
-        B1 --&gt; B12(EQ SOUTH)
-    B(TRACKING) --&gt; B2(RATE)
-        B2 --&gt; B21(SIDEREAL)
-        B2 --&gt; B22(SOLAR)
-        B2 --&gt; B23(LUNAR)
-        </div></section>
-<section id="scope-setup">
-<h4><span class="section-number">2.2.1.2. </span><code class="docutils literal notranslate"><span class="pre">SCOPE</span> <span class="pre">SETUP</span></code><a class="headerlink" href="#scope-setup" title="Permalink to this headline">#</a></h4>
-<div class="mermaid">
-            graph LR
-    D(SCOPE SETUP) --&gt; D1(SETUP TIME-SITE)
-    D(SCOPE SETUP) --&gt; D2(ANTI-BACKLASH)
-    D(SCOPE SETUP) --&gt; D3(FILTER LIMITS)
-    D(SCOPE SETUP) --&gt; D4(DIRECTION BUTTONS)
-    D(SCOPE SETUP) --&gt; D5(GOTO APPROACH)
-    D(SCOPE SETUP) --&gt; D6(AUTOGUIDE RATES)
-    D(SCOPE SETUP) --&gt; D7(OTA ORIENTATION)
-    D(SCOPE SETUP) --&gt; D8(MERIDIAN)
-    D(SCOPE SETUP) --&gt; D9(MOUNT SETTINGS)
-    D(SCOPE SETUP) --&gt; D10(R.A. LIMITS)
-        </div></section>
-<section id="utilities">
-<h4><span class="section-number">2.2.1.3. </span><code class="docutils literal notranslate"><span class="pre">UTILITIES</span></code><a class="headerlink" href="#utilities" title="Permalink to this headline">#</a></h4>
-<div class="mermaid">
-            graph LR
-    E(UTILITIES) --&gt; E1(CALIBRATE MOUNT)
-    E(UTILITIES) --&gt; E2(HOME POSITION)
-    E(UTILITIES) --&gt; E3(LIGHTS CONTROL)
-    E(UTILITIES) --&gt; E4(FACTORY SETTINGS)
-    E(UTILITIES) --&gt; E5(VERSION)
-    E(UTILITIES) --&gt; E6(GET AXIS POSITION)
-    E(UTILITIES) --&gt; E7(GOTO AXIS POSITION)
-    E(UTILITIES) --&gt; E8(HIBERNATE)
-    E(UTILITIES) --&gt; E9(SUN MENU)
-    E(UTILITIES) --&gt; E10(SCROLLING MENU)
-    E(UTILITIES) --&gt; E11(SET MOUNT POSITION)
-    E(UTILITIES) --&gt; E12(TURN ON/OFF GPS)
-    E(UTILITIES) --&gt; E13(TURN ON/OFF RTC)
-    E(UTILITIES) --&gt; E14(PEC)
-    E(UTILITIES) --&gt; E15(MOVE TO SWITCH)
-        </div></section>
-<section id="user-objects">
-<h4><span class="section-number">2.2.1.4. </span><code class="docutils literal notranslate"><span class="pre">USER</span> <span class="pre">OBJECTS</span></code><a class="headerlink" href="#user-objects" title="Permalink to this headline">#</a></h4>
-<div class="mermaid">
-            graph LR
-    F(USER OBJECTS) --&gt; F1(GOTO SKY OBJECT)
-    F(USER OBJECTS) --&gt; F2(SAVE SKY OBJECT)
-    F(USER OBJECTS) --&gt; F3(SAVE DB OBJECT)
-    F(USER OBJECTS) --&gt; F4(ENTER RA &amp; DEC)
-    F(USER OBJECTS) --&gt; F5(GOTO LAND OBJECT)
-    F(USER OBJECTS) --&gt; F6(SAVE LAND OBJECT)
-        </div></section>
+</div>
+</div>
+</div>
 </section>
 </section>
 </section>

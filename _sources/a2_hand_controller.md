@@ -41,116 +41,202 @@ NexStar controller
 :::
 ::::
 
-## Catalog menus
+## Controller menus
+
+### `ALIGN`
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} figures/menu_align.svg
+---
+name: nexstar-menu-align
+---
+NexStar Align Menu
+```
+
+:::
+:::{grid-item}
+
+- **`ALIGNMENT STARS`:** Update original alignment with new alignment stars.
+
+- **`CALIB. STARS`:** Add or update additional calibration stars.
+
+- **`POLAR ALIGN`:** Perform "All-Star" polar alignment and view polar alignment error.
+
+- **`SYNC`:** Sync the mount's coordinates to the given equatorial coordinates.
+
+- **`UNDO SYNC`:** Undo the sync (required when realigning the mount).
+
+:::
+::::
+
+### `MENU`
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} figures/menu.svg
+---
+name: nexstar-menu
+---
+NexStar Menu
+```
+
+:::
+:::{grid-item}
+
+
+:::
+::::
+
+#### `TRACKING`
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} figures/menu_tracking.svg
+---
+name: nexstar-menu-tracking
+---
+NexStar Menu - Tracking
+```
+
+:::
+:::{grid-item}
+
+- **`MODE`:** Set the proper tracking mode for your location. (Should be `EQ NORTH`)
+
+- **`RATE`:** Set the tracking rate (`SIDEREAL`, `SOLAR`, or `LUNAR`).
+
+:::
+::::
+
+```{note}
+If you select an object from the database the mount will trackmat the appropriate
+rate for the object type but if you slew to an object or enter coordinates manually
+the proper rate must be set.
+```
+
+#### `SCOPE SETUP`
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} figures/menu_setup.svg
+---
+name: nexstar-menu-setup
+---
+NexStar Menu - Scope Setup
+```
+
+:::
+:::{grid-item}
+
+
+:::
+::::
+
+#### `UTILITIES`
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} figures/menu_utilities.svg
+---
+name: nexstar-menu-utilities
+---
+NexStar Menu - Utilities
+```
+
+:::
+:::{grid-item}
+
+
+:::
+::::
+
+#### `USER OBJECTS`
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} figures/menu_objects.svg
+---
+name: nexstar-menu-objects
+---
+NexStar Menu - User Objects
+```
+
+:::
+:::{grid-item}
+
+
+:::
+::::
+
+### Catalog menus
 
 The hand control contains the following catalogs in its database:
 
 - **Messier:** (#1) Complete list of Messier objects.
 
-- **Caldwell:** (#2) A collection of the best NGC and IC objects not in the Messier list.
+- **Caldwell:** (#2) The best NGC and IC objects not in the Messier list.
 
-- **NGC:** (#4) Complete list of deep-sky objects in the Revised New General Catalog.
+- **NGC:** (#4) Complete list of objects in the Revised New General Catalog.
 
 - **Planets:** (#5) All 8 planets in our Solar System plus the Moon.
 
 - **Stars:** (#7) A list of the brightest stars from the SAO catalog.
 
-- **List:** (#8) The most popular objects in the database broken down by type and common name
+- **Tour:** (#0) A list of interesting objects based on date, time and set filter limits.
 
-  - **Named Stars:** Common name listing of the brightest stars in the sky.
+- **List:** (#8) All of the objects in the database by type and common name.
 
-  - **Named Objects:** Alphabetical listing of over 50 of the most popular deep sky objects.
+::::{grid}
+:gutter: 2
 
-  - **Double Stars:** List of the most visually stunning double, triple and quadruple stars.
+:::{grid-item}
 
-  - **Variable Stars:** List of the brightest short period variable stars.
+```{figure} figures/menu_list.svg
+---
+name: nexstar-menu-list
+---
+NexStar Menu - Object Lists
+```
 
-  - **Asterisms:** Some of the most recognizable star patterns in the sky.
+:::
 
-  - **CCD Objects:** List of many interesting galaxy pairs and clusters well suited imaging.
+:::{grid-item}
 
-  - **IC Objects:** Complete list of Index Catalog deep-sky objects.
+- **Named Stars:** Common name listing of the brightest stars in the sky.
+
+- **Named Objects:** Over 50 of the most popular deep sky objects.
+
+- **Double Stars:** Best double, triple and quadruple stars.
+
+- **Variable Stars:** Brightest short period variable stars.
+
+- **Asterisms:** The most recognizable star patterns in the sky.
+
+- **CCD Objects:** Galaxy pairs and clusters well suited imaging.
+
+- **IC Objects:** Index Catalog deep-sky objects.
   
-  - **Abell Objects:** List of the Abell Catalog galaxies.
+- **Abell Objects:** Abell Catalog galaxies.
 
-  - **Constellation:** List of all 88 constellations.
-
-## Controller menus
-
-### `MENU`
-
-```{mermaid}
-graph LR
-    A(MENU) --> B(TRACKING)
-
-    A(MENU) --> C(VIEW TIME-SITE)
-    A(MENU) --> D(SCOPE SETUP)
-    A(MENU) --> E(UTILITIES)
-    A(MENU) --> F(USER OBJECTS)
-    A(MENU) --> G(GET RA & DEC)
-    A(MENU) --> H(GOTO RA & DEC)
-    A(MENU) --> I(IDENTIFY)
-    A(MENU) --> J(PRECISE GOTO)
-```
-
-#### `TRACKING`
-
-```{mermaid}
-graph LR
-    B(TRACKING) --> B1(MODE)
-        B1 --> B11(EQ NORTH)
-        B1 --> B12(EQ SOUTH)
-    B(TRACKING) --> B2(RATE)
-        B2 --> B21(SIDEREAL)
-        B2 --> B22(SOLAR)
-        B2 --> B23(LUNAR)
-```
-
-#### `SCOPE SETUP`
-
-```{mermaid}
-graph LR
-    D(SCOPE SETUP) --> D1(SETUP TIME-SITE)
-    D(SCOPE SETUP) --> D2(ANTI-BACKLASH)
-    D(SCOPE SETUP) --> D3(FILTER LIMITS)
-    D(SCOPE SETUP) --> D4(DIRECTION BUTTONS)
-    D(SCOPE SETUP) --> D5(GOTO APPROACH)
-    D(SCOPE SETUP) --> D6(AUTOGUIDE RATES)
-    D(SCOPE SETUP) --> D7(OTA ORIENTATION)
-    D(SCOPE SETUP) --> D8(MERIDIAN)
-    D(SCOPE SETUP) --> D9(MOUNT SETTINGS)
-    D(SCOPE SETUP) --> D10(R.A. LIMITS)
-```
-
-#### `UTILITIES`
-
-```{mermaid}
-graph LR
-    E(UTILITIES) --> E1(CALIBRATE MOUNT)
-    E(UTILITIES) --> E2(HOME POSITION)
-    E(UTILITIES) --> E3(LIGHTS CONTROL)
-    E(UTILITIES) --> E4(FACTORY SETTINGS)
-    E(UTILITIES) --> E5(VERSION)
-    E(UTILITIES) --> E6(GET AXIS POSITION)
-    E(UTILITIES) --> E7(GOTO AXIS POSITION)
-    E(UTILITIES) --> E8(HIBERNATE)
-    E(UTILITIES) --> E9(SUN MENU)
-    E(UTILITIES) --> E10(SCROLLING MENU)
-    E(UTILITIES) --> E11(SET MOUNT POSITION)
-    E(UTILITIES) --> E12(TURN ON/OFF GPS)
-    E(UTILITIES) --> E13(TURN ON/OFF RTC)
-    E(UTILITIES) --> E14(PEC)
-    E(UTILITIES) --> E15(MOVE TO SWITCH)
-```
-
-#### `USER OBJECTS`
-
-```{mermaid}
-graph LR
-    F(USER OBJECTS) --> F1(GOTO SKY OBJECT)
-    F(USER OBJECTS) --> F2(SAVE SKY OBJECT)
-    F(USER OBJECTS) --> F3(SAVE DB OBJECT)
-    F(USER OBJECTS) --> F4(ENTER RA & DEC)
-    F(USER OBJECTS) --> F5(GOTO LAND OBJECT)
-    F(USER OBJECTS) --> F6(SAVE LAND OBJECT)
-```
+- **Constellation:** IAU recognised constellations.
+:::
+::::
