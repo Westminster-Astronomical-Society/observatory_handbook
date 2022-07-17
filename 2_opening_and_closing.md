@@ -15,4 +15,4 @@ procedures are in [chapter one](before_observing:scheduling) of this guide.
 
 ## Startup procedures
 
-## CLoseout procedures
+## Closeout procedures
