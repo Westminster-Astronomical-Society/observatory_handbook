@@ -21,7 +21,8 @@ parts:
     - file: a2_hand_controller
     - file: a3_telescope_alignment
     - file: a4_bright_stars
-  - caption: Colophon
+  - caption: End Matter
     numbered: False
     chapters:
+    - file: reference
     - file: colophon
