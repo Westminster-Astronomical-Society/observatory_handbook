@@ -8,5 +8,3 @@
 ## Equipment and instrumentation
 
 ## Safety
-
-## References

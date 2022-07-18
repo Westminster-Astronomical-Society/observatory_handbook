@@ -1,5 +1,10 @@
-# Observation Logs
+# Logs and Checklists
 
-## Example observation log
+## Observation logs
 
-![observatory_log](figures/observatory_log.png "BFRMO user log")
+```{figure} figures/observatory_log.png
+---
+name: user-log
+---
+example observatory user's log
+```
