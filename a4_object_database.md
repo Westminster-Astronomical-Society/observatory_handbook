@@ -8,9 +8,6 @@ brighter than magnitude 2.5 can be used for alignment.
 ```{note}
 The Celestron database uses some nonstandard names and spelling for the names
 of stars.
-
-Stars marked with an asterix are below -40 degrees declination and are not
-suitable for alignment at BFRMO.
 ```
 
 Bright stars by RA
@@ -100,13 +97,16 @@ Bright stars by RA
   | |Scheat         |bet Peg | 23 03 46.46 | +28 04 58.0 | 2.42 |
   | |Markab         |alf Peg | 23 04 45.65 | +15 12 19.0 | 2.48 |
 
+* Stars marked with an asterix are below -40 degrees declination and are not
+suitable for alignment at BFRMO.
+
 ## Messier objects
 
 ```{note}
 Messier objects are entered as three digits (i.e. Messier 1 is entered as 001).
 ```
 
-  | ID   | Const | RA          | Dec         | Mag (V) | Name                              |
+ | ID   | Const | RA          | Dec         | Mag (V) | Name                               |
  | ---- | ----- | ----------- | ----------- | ------- | ---------------------------------- |
  | M001 | Tau   | 05 34 31.97 | +22 00 52.1 | 8.4     | NGC1952, Crab Nebula               |
  | M002 | Aqr   | 21 33 27.01 | -00 49 23.9 | 6.25    | NGC7089                            |
