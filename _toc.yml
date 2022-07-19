@@ -20,7 +20,7 @@ parts:
     - file: a1_observation_logs
     - file: a2_hand_controller
     - file: a3_telescope_alignment
-    - file: a4_bright_stars
+    - file: a4_object_database
   - caption: End Matter
     numbered: False
     chapters:
