@@ -97,7 +97,7 @@ Bright stars by RA
   | |Scheat         |bet Peg | 23 03 46.46 | +28 04 58.0 | 2.42 |
   | |Markab         |alf Peg | 23 04 45.65 | +15 12 19.0 | 2.48 |
 
-* Stars marked with an asterix are below -40 degrees declination and are not
+\* Stars marked with an asterix are below -40 degrees declination and are not
 suitable for alignment at BFRMO.
 
 ## Messier objects
