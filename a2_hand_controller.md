@@ -231,7 +231,7 @@ NexStar Menu - Object Lists
 
 - **Asterisms:** The most recognizable star patterns in the sky.
 
-- **CCD Objects:** Galaxy pairs and clusters well suited imaging.
+- **CCD Objects:** Galaxy pairs and clusters well suited for imaging.
 
 - **IC Objects:** Index Catalog deep-sky objects.
   
